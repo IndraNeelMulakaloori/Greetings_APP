@@ -48,3 +48,7 @@ http://localhost:5000/greet/French
 ## Citation
 - Thanks [@Mohamed Suhaib](https://github.com/subbe) for [subbe/greetings.json](https://gist.github.com/subbe/94ba128e4560b50484eb6aa2556b7559)
 - Thanks [@Arpit Bhayani](https://github.com/arpitbbhayani) for [HTTP Implementation](https://www.youtube.com/watch?v=SzwjnoPI--M)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
